@@ -1,5 +1,5 @@
-# Eurorack-Panel-Designer
-
+# Eurorack Panel Designer
+for Inkscape
 v2
 
 Installation:
