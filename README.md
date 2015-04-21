@@ -1,9 +1,12 @@
-# Eurorack Panel Designer
-for Inkscape
-v2
+# Eurorack Panel Designer 
+*extension for Inkscape*
+------------------------
 
-Installation:
+![Imgur](http://i.imgur.com/43DddO6.png)
 
-Unarchive and copy files to Inkscape's "extensions" directory (usually inkscape/share/extensions).
-
-Extension will show up in Inkscape under Extensions->Render->Eurorack Panel Designer.
+>**Installation:**
+> Unarchive and copy `EurorackPanelDesigner.py` and `EurorackPanelDesigner.inx` to Inkscape's "extensions" directory (usually
+> inkscape/share/extensions).
+> 
+> Extension will show up in Inkscape under Extensions->Render->Eurorack
+> Panel Designer.
